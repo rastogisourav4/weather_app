@@ -3,7 +3,7 @@
 
 This is a simple weather app built with Flutter.
 
-## How to Run the App
+
 
 1. **Clone the repository:**
    ```bash
